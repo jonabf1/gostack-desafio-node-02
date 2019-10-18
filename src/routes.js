@@ -9,5 +9,6 @@ const routes = express.Router();
 routes.post('/user', UserController.store);
 routes.post('/session', SessionController.store);
 routes.post('/student', authMiddleware, StudentController.store);
+routes.put('/student', authMiddleware, StudentController.update);
 
 module.exports = routes;
