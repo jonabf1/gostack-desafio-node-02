@@ -1,6 +1,6 @@
 # bootcamp-gostack-desafio-02
 <h1 align="center">
-  <img alt="Gympoint" title="Gympoint" src=".github/logo.png" width="200px" />
+  <img alt="Gympoint" title="Gympoint" src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" width="200px" />
 </h1>
 
 <h3 align="center">
@@ -11,8 +11,6 @@
 ## :rocket: Sobre o desafio
 
 A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
-
-Nesse primeiro desafio vamos criar algumas funcionalidades básicas que aprendemos ao longo das aulas até aqui. Esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp**, então, bora pro código!
 
 ### Um pouco sobre as ferramentas
 
@@ -31,12 +29,10 @@ Abaixo estão descritas as funcionalidades da aplicação
 
 #### 1. Autenticação
 
-Permita que um usuário se autentique em sua aplicação utilizando e-mail e uma senha e adicionar um usuário com privilegios de admin
-
-Agora você tem um usuário na sua base de dados, utilize esse usuário para todos logins daqui pra frente.
+Permitir que um usuário se autentique em sua aplicação utilizando e-mail e uma senha e adicionar um usuário com privilegios de admin
 
 - A autenticação deve ser feita utilizando JWT.
-- Realize a validação dos dados de entrada;
+- Realizar a validação dos dados de entrada;
 
 #### 2. Cadastro de alunos
 
