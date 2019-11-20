@@ -23,17 +23,13 @@ Criar um app gerenciador de academia, o **Gympoint**.
 
 ### Funcionalidades
 
-Abaixo estão descritas as funcionalidades da aplicação
-
 #### 1. Autenticação
 
-Permitir que um usuário se autentique em sua aplicação utilizando e-mail e uma senha e adicionar um usuário com privilegios de admin
-
+- Autenticação do usuário com email e criar um usúario com privilegios de admin
 - A autenticação deve ser feita utilizando JWT.
-- Realizar a validação dos dados de entrada;
 
 #### 2. Cadastro de alunos
 
-- Permitir que alunos sejam mantidos (cadastrados/atualizados) na aplicação utilizando nome, email, idade, peso e altura.
+- Permitir que alunos sejam cadastrados/atualizados na aplicação
 - O cadastro de alunos só pode ser feito por administradores autenticados na aplicação.
 - O aluno não pode se autenticar no sistema, ou seja, não possui senha.
