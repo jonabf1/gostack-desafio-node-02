@@ -10,11 +10,9 @@
 
 ## :rocket: Sobre o desafio
 
-A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app gerenciador de academia, o **Gympoint**.
+Criar um app gerenciador de academia, o **Gympoint**.
 
-### Um pouco sobre as ferramentas
-
-Dependencias a configurar:
+### Dependências usadas
 
 - Express
 - Sucrase + Nodemon;
@@ -36,8 +34,6 @@ Permitir que um usuário se autentique em sua aplicação utilizando e-mail e um
 
 #### 2. Cadastro de alunos
 
-Permitir que alunos sejam mantidos (cadastrados/atualizados) na aplicação utilizando nome, email, idade, peso e altura.
-
-O cadastro de alunos só pode ser feito por administradores autenticados na aplicação.
-
-O aluno não pode se autenticar no sistema, ou seja, não possui senha.
+- Permitir que alunos sejam mantidos (cadastrados/atualizados) na aplicação utilizando nome, email, idade, peso e altura.
+- O cadastro de alunos só pode ser feito por administradores autenticados na aplicação.
+- O aluno não pode se autenticar no sistema, ou seja, não possui senha.
