@@ -1,11 +1,12 @@
 # bootcamp-gostack-desafio-02
-<h1 align="center">
+<p align="center">
   <img alt="Gympoint" title="Gympoint" src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" width="200px" />
+</p>
+
+<h1 align="center">
+  Desafio 2: Gympoint, o início
 </h1>
 
-<h3 align="center">
-  Desafio 2: Gympoint, o início
-</h3>
 
 
 ## :rocket: Sobre o desafio
