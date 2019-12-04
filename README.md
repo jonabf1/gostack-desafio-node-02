@@ -7,9 +7,7 @@
   Desafio 2: Gympoint, o início
 </h1>
 
-
-
-## :rocket: Sobre o desafio
+### :rocket: Sobre o desafio
 
 Criar um app gerenciador de academia, o **Gympoint**.
 
