@@ -11,7 +11,7 @@
 
 Create a gym manager app, the **Gympoint**.
 
-### Dependencies used
+### :rocket: Dependencies used
 
 - Express
 - Sucrase + Nodemon;
@@ -20,7 +20,7 @@ Create a gym manager app, the **Gympoint**.
 - Bcrypt
 - JsonWebToken
 
-### Functionalities
+### :rocket: Functionalities
 
 #### 1. Authentication
 
