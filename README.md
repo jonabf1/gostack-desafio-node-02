@@ -1,10 +1,6 @@
 
-<p align="center">
-  <img alt="Gympoint" title="Gympoint" src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" width="200px" />
-</p>
-
 <h1 align="center">
-  Challenge 2: Gympoint, the beginning
+  <img alt="Gympoint" title="Gympoint" src="https://raw.githubusercontent.com/Rocketseat/bootcamp-gostack-desafio-02/master/.github/logo.png" width="200px" />
 </h1>
 
 ### :rocket: About
