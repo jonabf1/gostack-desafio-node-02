@@ -4,14 +4,14 @@
 </p>
 
 <h1 align="center">
-  Desafio 2: Gympoint, o início
+  Challenge 2: Gympoint, the beginning
 </h1>
 
-### :rocket: Sobre o desafio
+### :rocket: About
 
-Criar um app gerenciador de academia, o **Gympoint**.
+Create a gym manager app, the **Gympoint**.
 
-### Dependências usadas
+### Dependencies used
 
 - Express
 - Sucrase + Nodemon;
@@ -20,15 +20,21 @@ Criar um app gerenciador de academia, o **Gympoint**.
 - Bcrypt
 - JsonWebToken
 
-### Funcionalidades
+### Functionalities
 
-#### 1. Autenticação
+#### 1. Authentication
 
-- Autenticação do usuário com email e criar um usúario com privilegios de admin
-- A autenticação deve ser feita utilizando JWT.
+- User authentication with email and create a user with admin privileges
+- Authentication must be done using JWT.
 
-#### 2. Cadastro de alunos
+#### 2. Student Registration
 
-- Permitir que alunos sejam cadastrados/atualizados na aplicação
-- O cadastro de alunos só pode ser feito por administradores autenticados na aplicação.
-- O aluno não pode se autenticar no sistema, ou seja, não possui senha.
+- Allow students to be registered / updated in the application.
+- The registration of students can only be done by administrators authenticated in the application.
+- The student cannot authenticate to the system, ie has no password.
+
+<hr/>
+
+<p align="center">
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
